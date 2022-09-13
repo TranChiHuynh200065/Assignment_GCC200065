@@ -339,7 +339,6 @@ public class TablePurchaseController {
             motorcycleShopManagementSystem.JDatePickerPurchase.getJFormattedTextField().setValue(c);
         }catch (Exception e){
             //Do nothing
-            System.out.println("Hello con heo");
         }
     }
 
